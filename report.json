@@ -1,0 +1,47 @@
+[
+  {
+    "Date": "18/12/2025 16:15:28",
+    "ItemsSold": [
+      {
+        "Item": {
+          "id": 1,
+          "name": "Sabun Mandi",
+          "price": 5000,
+          "stock": 0
+        },
+        "Quantity": 7
+      }
+    ],
+    "TotalSales": 35000
+  },
+  {
+    "Date": "18/12/2025 16:15:58",
+    "ItemsSold": [
+      {
+        "Item": {
+          "id": 3,
+          "name": "Pasta Gigi",
+          "price": 8000,
+          "stock": 8
+        },
+        "Quantity": 4
+      }
+    ],
+    "TotalSales": 32000
+  },
+  {
+    "Date": "18/12/2025 16:24:52",
+    "ItemsSold": [
+      {
+        "Item": {
+          "id": 4,
+          "name": "Kopi Sachet",
+          "price": 3000,
+          "stock": 31
+        },
+        "Quantity": 5
+      }
+    ],
+    "TotalSales": 15000
+  }
+]

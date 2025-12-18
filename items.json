@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Sabun Mandi",
+    "price": 5000,
+    "stock": 0
+  },
+  {
+    "id": 2,
+    "name": "Shampoo",
+    "price": 12000,
+    "stock": 13
+  },
+  {
+    "id": 3,
+    "name": "Pasta Gigi",
+    "price": 8000,
+    "stock": 8
+  },
+  {
+    "id": 4,
+    "name": "Kopi Sachet",
+    "price": 3000,
+    "stock": 31
+  },
+  {
+    "id": 5,
+    "name": "Air Mineral",
+    "price": 4000,
+    "stock": 21
+  }
+]
